@@ -1,0 +1,2 @@
+# LogTree
+C++ Logging library
